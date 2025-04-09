@@ -131,7 +131,7 @@ await use_mcp_tool({
 
 ## 📚 Additional Resources
 
-- [MCP SDK Documentation](https://github.com/modelcontextprotocol/sdk)
+- [MCP SDK Documentation](https://modelcontextprotocol.io/sdk/java/mcp-overview)
 - [MCP Specification](https://github.com/modelcontextprotocol/specification)
 
 ## 🤖 Why Father-MCP?
