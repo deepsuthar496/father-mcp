@@ -103,32 +103,6 @@ father-mcp/
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🚀 Quick Start Example
-
-Here's a complete example of how to use Father-MCP in your AI application:
-
-```typescript
-// Example of using get_mcp_docs
-await use_mcp_tool({
-  server_name: "father-mcp",
-  tool_name: "get_mcp_docs",
-  arguments: {
-    topic: "overview"
-  }
-});
-
-// Example of generating a new server
-await use_mcp_tool({
-  server_name: "father-mcp",
-  tool_name: "generate_server_code",
-  arguments: {
-    serverType: "tool",
-    name: "weather-server",
-    description: "MCP server for weather data"
-  }
-});
-```
-
 ## 📚 Additional Resources
 
 - [MCP SDK Documentation](https://modelcontextprotocol.io/sdk/java/mcp-overview)
